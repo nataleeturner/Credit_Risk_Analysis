@@ -51,8 +51,7 @@ The purpose of this analysis is to be able to predict credit risk by comparing s
   * High-risk Recall: 0.92
   * The easy ensemble adaboost classifier model produces true high-risk and true low risk results an impressive 93% of the time. Additionally, out of all high-risk loan predictions, 9% of them are actually high-risk. Lastly, of all the high and low risk predictions, 92% of the loans are correct This model is much better at accurately predicting the risk of the loan, and both the precision and the recall of high-risk loans is better compared to all the other models.
 
-<img width="780" alt="EEC" src="https://user-images.githubusercontent.com/88349443/146712322-c70d4074-dc24-47b7-a138-18d8b709480e.png">
-Please note: I had an issue with getting the easy ensemble adaboost classifier model to run, despite downgrading scikit-learn and attempting several other fixes that I found online. Therefore, I've used the startercode results for this analysis.
+<img width="784" alt="EEC" src="https://user-images.githubusercontent.com/88349443/146842904-b307ed4e-75f3-4537-8cd7-b5231151a9fb.png">
 
 ## Summary
 
